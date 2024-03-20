@@ -1,0 +1,6 @@
+@KIPServiceTestTask_HostAddress = http://localhost:5264
+
+GET {{KIPServiceTestTask_HostAddress}}/
+Accept: application/json
+
+###
